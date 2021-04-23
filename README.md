@@ -6,7 +6,7 @@
 - Adding authentication with Auth0 to a Spring Boot 2 MVC application
 - Accessing profile information of the authenticated user
 - Only allowing authenticated users to access restricted resources(/profile) 
-- Verify it
+- Verify and test it
 ```
 
 
